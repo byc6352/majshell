@@ -1,0 +1,21 @@
+com.byc.reforcemy.ProxyApplication -> com.byc.reforcemy.ProxyApplication:
+    java.lang.String apkFileName -> d
+    java.lang.String odexPath -> e
+    java.lang.String libPath -> f
+    android.content.res.AssetManager mAssetManager -> a
+    android.content.res.Resources mResources -> b
+    android.content.res.Resources$Theme mTheme -> c
+    36:36:void <init>() -> <init>
+    45:97:void attachBaseContext(android.content.Context) -> attachBaseContext
+    105:178:void onCreate() -> onCreate
+    186:244:void splitPayLoadFromDex(byte[]) -> a
+    252:274:byte[] readDexFileFromApk() -> a
+    280:283:byte[] decrypt(byte[]) -> b
+    312:312:android.content.res.AssetManager getAssets() -> getAssets
+    317:317:android.content.res.Resources getResources() -> getResources
+    322:322:android.content.res.Resources$Theme getTheme() -> getTheme
+com.byc.reforcemy.RefInvoke -> com.byc.reforcemy.a:
+    19:41:java.lang.Object invokeStaticMethod(java.lang.String,java.lang.String,java.lang.Class[],java.lang.Object[]) -> a
+    57:79:java.lang.Object invokeMethod(java.lang.String,java.lang.String,java.lang.Object,java.lang.Class[],java.lang.Object[]) -> a
+    92:112:java.lang.Object getFieldOjbect(java.lang.String,java.lang.Object,java.lang.String) -> a
+    158:178:void setFieldOjbect(java.lang.String,java.lang.String,java.lang.Object,java.lang.Object) -> a

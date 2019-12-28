@@ -1,0 +1,14 @@
+com.byc.maj.R$dimen: int activity_horizontal_margin
+com.byc.maj.R$drawable: int ic_launcher
+com.byc.maj.R$string: int Title
+com.byc.maj.R$string: int accessibility_description
+com.byc.maj.R$string: int action_floatwindow
+com.byc.maj.R$string: int action_settings
+com.byc.maj.R$string: int app_name
+com.byc.maj.R$string: int service_name
+com.byc.maj.R$style: int AppBaseTheme
+com.byc.maj.R$style: int AppTheme
+com.byc.maj.R$xml: int lock
+com.byc.maj.R$xml: int qianghongbao_service_config
+com.byc.reforcemy.ProxyApplication
+com.byc.reforcemy.ProxyApplication: ProxyApplication()
